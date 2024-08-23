@@ -1,6 +1,6 @@
 # Cat_Dog-Classifier using CNN
 
-This project implements a Convolutional Neural Network (CNN) for binary image classification to differentiate between images of dogs and cats. The model, built using TensorFlow and Keras, achieves over 90% accuracy on the validation set.
+This project implements a Convolutional Neural Network (CNN) for binary image classification to differentiate between images of dogs and cats. The model, built using TensorFlow and Keras, achieves over 75% accuracy on the validation set.
 
 Model Architecture
 
